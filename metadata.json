@@ -1,0 +1,6 @@
+{
+  "name": "Cerimonial Câmara — Gestão de Eventos",
+  "description": "Visualizador de planilha Google Sheets e gerador de agenda semanal para envio via WhatsApp do Cerimonial da Câmara dos Deputados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
